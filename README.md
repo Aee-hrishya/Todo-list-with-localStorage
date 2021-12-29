@@ -1,4 +1,4 @@
-## Todo List Application with Local Storage
+# Todo List Application with Local Storage
 
 I have created the Todo List application where the user can add task to the list, delete it after completion and at 
 the same time all the changes can be persisted to local storage(won't get lost when we refresh the page).
