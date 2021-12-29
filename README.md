@@ -1,3 +1,21 @@
+## Todo List Application with Local Storage
+
+I have created the Todo List application where the user can add task to the list, delete it after completion and at 
+the same time all the changes can be persisted to local storage(won't get lost when we refresh the page).
+
+### Technologies Used
+- React.js 
+- Context API 
+- Hooks(useState, useContext, useEffect) 
+- react-icons 
+- npm uuid(for generating random ID's)
+
+### Features
+- User can Add a task to the list.
+- User can delete a task from the list.
+- When form is submitted without proper inputs an alert pops up.
+- All changes are persisted to the local storage.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
